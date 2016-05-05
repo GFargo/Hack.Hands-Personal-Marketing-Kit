@@ -1,28 +1,30 @@
 # Hack.Hands() Personal Marketing Kit
 
-The goal of this repository is to assist all Hack.Hands() Experts in the process of personally marketing themselves by providing high quality up-to-date assets, sticker / business card templates, and a variety of _html snippets_ for use on your personal website.
+The goal of this repository is to assist all Hack.Hands() Experts in the process of personally marketing themselves by **providing high quality up-to-date assets** along with a variety of _html snippets_ to use on your personal site.
+
+
+
+### Marketing yourself as an Expert
+
+
 
 
 ## HTML Snippets
 
-[Codepen](http://codepen.io/collection/DbGQaP/) is currently the easiest platforms to share & collaborate on these template snippets.
+[Codepen](http://codepen.io/collection/DbGQaP/) is currently the easiest platforms to share & collaborate on these template snippets.  The collection of pens can be **found [here](http://codepen.io/collection/DbGQaP/)** titled _Hack.Hands() Personal Marketing Templates_.
 
-### Codepen Collection
-
-You can find the original collection of pens [here](http://codepen.io/collection/DbGQaP/) titled _Hack.Hands() Personal Marketing Templates_.
-
-These templates were created to provide the initial assets, color schemes, and rehteoric synomous with the Hack.Hands() website.  Please fork, share, and save to your hearts content!
+These templates were created to provide the initial assets, color schemes, and rehteoric synomous with the Hack.Hands() website.  Please fork and share to your hearts content!
 
 
 ![Banner Dark](http://i.giphy.com/xT4uQdlfWruf1opQwo.gif)
 
 ![Responsive Banners](http://i.giphy.com/26gwpYE3VSeo7GrRu.gif)
 
-![Banner - Need Immediate Help?](http://i.giphy.com/xT4uQCiwiPMDSRfKec.gif)
+<!-- ![Banner - Need Immediate Help?](http://i.giphy.com/xT4uQCiwiPMDSRfKec.gif) -->
 
 ![Widget Variations](http://i.giphy.com/3o6EhQXyCrFVI1tayQ.gif)
 
-![Banner - Still stuck on that error message?](http://i.giphy.com/xT4uQlQYpxXCFdGSnS.gif)
+<!-- ![Banner - Still stuck on that error message?](http://i.giphy.com/xT4uQlQYpxXCFdGSnS.gif) -->
 
 
 
@@ -55,16 +57,12 @@ In addition to the Hack.Hands() assets provided, I figured it might be handy to 
 
 ## HH Typeface
 
-HH currently takes advantage of the [Whitney Typeface](https://www.typewolf.com/site-of-the-day/fonts/whitney).
+HH currently takes advantage of the [licensable](https://www.typewolf.com/site-of-the-day/fonts/whitney) Whitney Typeface.  
 
+Inside of the _fonts_ directory are a collection of font families and resources I've found helpful when creating custom graphics or elements.
 
-#### Free Font Alternatives
-
-Inside of the _fonts_ directory there are a collection of font families I've found work well when creating custom graphics or elements to upload to the web.
-
-A common replacement for Whitney is the **Open Sans** font-family.  You can download it [here](https://www.google.com/fonts/specimen/Open+Sans).
-
-Another font-family that works great is **PT Sans**, also available on [google fonts](https://www.google.com/fonts/specimen/PT+Sans).
+- **Open Sans** available [here](https://www.google.com/fonts/specimen/Open+Sans)
+- **PT Sans** available [here](https://www.google.com/fonts/specimen/PT+Sans)
 
 
 ## Contributing
